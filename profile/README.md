@@ -13,7 +13,7 @@
 
 ### 📌 팀원 소개
 
-|   [피클](https://github.com/PCloud63514)    |  [DarkKinght](https://github.com/cjdvnd0206) |  [Jihyun Lee](https://github.com/jihyunleeme)  | [YeJi-Ecoder](https://github.com/YeJi-Ecoder) |
+|   [퍼클](https://github.com/PCloud63514)    |  [DarkKinght](https://github.com/cjdvnd0206) |  [Jihyun Lee](https://github.com/jihyunleeme)  | [YeJi-Ecoder](https://github.com/YeJi-Ecoder) |
 |:------------------------------:|:---------------------------------------------:|:----------------------------------------------:|:----:|
 | <img src="https://user-images.githubusercontent.com/22608825/178968208-3d26ac15-0272-46cc-9434-8d797ff7a296.jpeg" width="100px"> |                                               |                                                |      |
 |           Leader, BE        |        IOS                      |       FE           |  BE  |
