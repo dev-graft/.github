@@ -3,7 +3,7 @@ name: task-list
 about: 작업 목록 추가
 title: ''
 labels: 작업 목록
-assignees: PCloud63514
+assignees: ''
 
 ---
 

@@ -3,7 +3,7 @@ name: Act
 about: 액트 문서 추가
 title: ''
 labels: Act
-assignees: PCloud63514
+assignees: ''
 
 ---
 
