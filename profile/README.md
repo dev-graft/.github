@@ -13,7 +13,7 @@
 
 ### 📌 팀원 소개
 
-|   [퍼클](https://github.com/PCloud63514)    |  [닼나](https://github.com/cjdvnd0206) |  [Leanna](https://github.com/jihyunleeme)  | [YeJi-Ecoder](https://github.com/YeJi-Ecoder) |
+|   [퍼클](https://github.com/PCloud63514)    |  [닼나](https://github.com/cjdvnd0206) |  [리애나](https://github.com/jihyunleeme)  | [YeJi-Ecoder](https://github.com/YeJi-Ecoder) |
 |:------------------------------:|:---------------------------------------------:|:----------------------------------------------:|:----:|
 | <img src="https://user-images.githubusercontent.com/22608825/178968208-3d26ac15-0272-46cc-9434-8d797ff7a296.jpeg" width="100px"> | <img src="https://user-images.githubusercontent.com/22608825/191979095-10317ae3-ff30-45d7-ac57-2f446a3dbcc4.jpeg" width="120px"> |<img src="https://user-images.githubusercontent.com/40045979/180649138-a7f930d4-7804-4d11-a01f-0e490278f44a.jpeg" width="120px">                                                     | |
 |           Leader, BE        |        IOS                      |       FE           |  BE  |
