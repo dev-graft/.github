@@ -8,7 +8,6 @@
 ⛺ **Team Blog**: <br>
 📭 **Team Email**: devgraftteam@gmail.com <br>
 🎂 **Team CreatedAt**: 2021-09-02 <br> 
-![53811541]()
 
 
 ### 📌 팀원 소개
