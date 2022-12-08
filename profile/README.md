@@ -5,7 +5,6 @@
 
 #### [📌 팀 공지사항](https://github.com/dev-graft/.github/wiki/%ED%8C%80-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD)
 
-⛺ **Team Blog**: <br>
 📭 **Team Email**: devgraftteam@gmail.com <br>
 🎂 **Team CreatedAt**: 2021-09-02 <br> 
 
